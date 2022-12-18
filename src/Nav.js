@@ -1,12 +1,12 @@
-import './App.css';
+import './Button.css';
+import './Nav.css';
 function Nav() {
     return (
         <div class="container red topBotomBordersOut">
-            <a>HOME</a>
-            <a>ARTICLES</a>
-            <a>PORTFOLIO</a>
-            <a>ABOUT</a>
-            <a>CONTACT</a>
+            <a>Buttons</a>
+            <a>NavBar</a>
+            <a>Footer</a>
+            <a>Icons</a>
         </div>
     )
 }
